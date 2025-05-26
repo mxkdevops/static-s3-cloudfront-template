@@ -9,6 +9,7 @@ git commit -m "Initial commit"
 ```
 ### Push it to GitHub:
 ```bash
+git branch -M main
 git remote add origin https://github.com/mxkdevops/static-s3-cloudfront-template.git
 git push -u origin main
 
